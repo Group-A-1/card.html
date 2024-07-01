@@ -1,0 +1,22 @@
+body{
+    background: url(08-01.jpg) rgba(52, 9, 9, 0.3);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+font-size: 70px;
+color: antiquewhite;
+text-align: center;
+padding-top: 120px;
+}
+.button{
+    text-align: center;
+    font-style: italic;
+    color: antiquewhite;
+    font-size: xx-large;
+
+}
+.button a{
+    text-decoration: none;
+    color: white;
+}
